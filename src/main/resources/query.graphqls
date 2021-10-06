@@ -1,0 +1,4 @@
+type Query{
+  billingAccount(id: ID): BillingAccount
+}
+

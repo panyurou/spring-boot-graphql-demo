@@ -1,0 +1,5 @@
+type BillingAccount {
+  id: ID!
+  name: String!
+  currency: Currency
+}
